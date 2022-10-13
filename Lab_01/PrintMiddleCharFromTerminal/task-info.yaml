@@ -1,0 +1,20 @@
+type: theory
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 92
+    length: 47
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 93
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: paapLHNOG9HOrqAVBBT2Z/I1SWOdxYMBhrV4o03CcjueqkrUO6bxzfAdQlBjQKLy+m2+fo48SWHuIP4aYoTgdA==
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw+JwWy2proYc9KIVsF0jpN7xyj7CxWqXVlsJI8gDueQvHjatZEm70lTAfdXhwJJd6tpmyKzDK1l7jHdWHpgC03o82lmieoTfRB/C1OOI5e9hfWSqJmY/b6gCIJsADOQcVA==
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,30 @@
+type: output
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 195
+    length: 62
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 195
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: sZ8V07gHm13bWjn1RTAkRT9czTHZhCbCCY1BfYeXPcCvwKkpLEfdARReVx/i0Ek8Qn1sW/J8YfWU7qCqbi2z9iJQ06ZzTlD/ol48D55vjKU=
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4IAXIw5Vzx2t4XJ40xVZ+9uNqGQ0onEC7FL7HXvWRNwv+a9kuWI2u03f1VgliYOtbj1EUYhj6EQXGeDNN02aq/yzXgb9PiQnTBApSkqUfuRJ+UU33MR2s4086Z1HnAr5//hS4U1XZjVhCGTgQniWzM2ncZJ/6R69gENOkxGoei8emJN7RdGd422q5577SWeAw1CaIgnAMKdnY28c/N4a9eNIipbOMNnxHlOsivm0FkEA05dfuLVbux+TwnsOlVFDzjesJQksGxBBK7qkLmdLF0=
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: 142eKgSAMjUs/EmSj9N8Ow==
+  learner_created: false
+- name: test/latest_output.txt
+  visible: false
+  encrypted_text: 142eKgSAMjUs/EmSj9N8Ow==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 23 Sep 2022 10:38:41 UTC
+record: -1

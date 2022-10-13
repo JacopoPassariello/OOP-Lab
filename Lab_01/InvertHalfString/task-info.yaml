@@ -1,0 +1,30 @@
+type: output
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 472
+    length: 0
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 183
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Du7+OC647YDCgB4V10E3pIbb0I9yUuJBo1Zz8CY80Ke4gpB9+Xv2CEwPQVJ8ttL9AFO0M3gkTf5NTk+pLugGeBoudS0Xfwu3D4RjvaE1224W0z6jnb17EHXyAfg+aS0+jnv2nwjlL8fdYoEMFVwgWk0h+SeShoXKRjVejOX00bOuhQp8bllzRhue60VmI9XPxwapefBt5qB7E9Pwz6LhrWMzpBjDU+BMrMivf09nk1Pcr1fAN1+natffMRAjx9mLQ8ifM9gFNU2cX8DkIQttwM9jDlKbGIrrNJHV00tkSR1C2GkVnqC0GZxoKUdhRgz/4Xt8tEDRzyQg9Y3nI8NKCQPc7DqwkWq6RNO/s7L11y4EQvZ/t7mvSdpp2kaq1kYF
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw4IAXIw5Vzx2t4XJ40xVZ+9mASQ3rOv6x5R2wh2P3TgHBnD5R76F7onBkaUz5BUfcB5u5KcGXHhf6N5aappAJx3oa/9p7iTon5851r3AzXEJpMX/FfPQ6sN9UosdwMUVD18dMP1Jx+pcfMpUB6pr1G8gqP5QSomwZt00CGLfOqWMg4DKC/8W2/K5w4219RQuk2tQ/B/F8qulWfOA+lWxYXiVFRDxqh9QlTxpj5pPt8JEWhlPad8RnNe+Uz0nSHt4bg==
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: icgODDCYvc8bb2NDq/wKG/JpjOe2xB3SrvznMyuQQIY=
+  learner_created: false
+- name: test/latest_output.txt
+  visible: false
+  encrypted_text: icgODDCYvc8bb2NDq/wKG/JpjOe2xB3SrvznMyuQQIY=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 23 Sep 2022 10:58:54 UTC
+record: -1

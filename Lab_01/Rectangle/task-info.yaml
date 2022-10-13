@@ -1,0 +1,30 @@
+type: output
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 282
+    length: 606
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 274
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: VUnUJC+y9iw0+YV5LWDJ4KE6TPCvGKwlHlXjvBG9tUxrF0/rHv8GjR73/4t32HEfxY0XSmobx25O4LbAiX5OYfrUTLg3Lzra43bU5Z05ASu+bl65sJadxAWnrdeDAYl4x7vmwwSjk3aJON1bEfTc2iAK/BVjNXADy3LIMf59x4+JRkrvd9adtlsCmJ+RQpUx6FpDyaQYd/RMEeCyPgcE35lRg+gQN/YJKw9usvXKUelF3ub9il54DAf1aQnDF6jpQLZJoGMXF0hrlk2GC5sy9KqzJvPBWX42gWOrBGFRobU6xGZoQjFQIcC+IeC8V7OtS/ChPZK1bTFPIH+nZOghluefc29gU+5NB5aWEQhB2zSbR9zFuoT6QulB+DkW6lTJen/iENGImpeEreDFpOkFoPOCnjX1PWj2sRYDd0pdg4vvoiT7ufm+GRjbuVGoezc/fK2QkCOl/UqfjkB7LaQx/qjzXby8JsXYHYKzVa4wAcIW1n46Z1dVsHDDhwgCjxCKIwyfws3KoVpNxW4SQbTULbsiC6C2pbFyQ3qMJsKa3Nh0LtataUv0RIdnk/YGWxlGcfY0perNdYMiYiu0MoX7oOxF1WJNcxEDpTp5Zt4bmIcq/pK+YFJ5DXa8XQX4eT4M
+  encrypted_text: +T3Gua+Zc7QUSyguCNMuGVbzUq+/PfLXvTQf11Rdr3UVSb6Ez6s0AwXWPVqQq8F288N+4iV42kLmo1s9TqH0wW3BabFrtJo9G/VpN6W9taT/ZwZKdRIbfKcLqp6yd7mAh3Tx5NaejQa+ss4VmnP7gzIm6qzVJeniCeaePRo5Q1msIyPiQ4frbPsBzdIJUlLUC4z7LmiUBJKP0PUvTxzy2kQizU9BQ4Gf4KrYS1qZ8V9tmCDc2E6/sRhEL27TQ8zXtnAvtkoBshM3/GVH51b7k5NKt4jpVb3wcpJAGaf4ITdiJoaWbkBqGTwAwfwobtKKSYYeTRvcF52fBsSP05bSwiZ9Fy9LvW9C/2o4i6DHyGMqBEjX+1csUFNE6h4yAIExoXlIR9KqLN10p67V2U30kPZAKCHZ60vHn5igrluIL7TBsJwgG0aAib2mNWwqbulkmLfdZRadupb3ktWVe6QdH1wVIPB9DsPqh5f/8TtOtXNoR9KmxTopIf9adsRfbbxpq/0REA8nMgTvjW6aGlecsOuzmzl3kG5ICUnPpBfUYMs=
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: P6rtwJFA+plfgo/kym436vs95JcQKZuzDFkCnaEFz4ZJt4qepN6oA32Ak7pZAProxgatH/8JclLU5Vxv+oduGwuyoorDZIa+27fKGHSUOfF5Jw1E+P4g/nUCLdu/VCg/vcIUOKl8v4n2wp8kTHNQPQ==
+  learner_created: false
+- name: test/latest_output.txt
+  visible: false
+  encrypted_text: P6rtwJFA+plfgo/kym436vs95JcQKZuzDFkCnaEFz4ZJt4qepN6oA32Ak7pZAProxgatH/8JclLU5Vxv+oduGwuyoorDZIa+27fKGHSUOfF5Jw1E+P4g/nUCLdu/VCg/vcIUOKl8v4n2wp8kTHNQPQ==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 04 Oct 2022 20:23:19 UTC
+record: -1
