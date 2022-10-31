@@ -1,0 +1,20 @@
+Tesla
+Model S
+2020
+35000
+Fiat
+Punto
+2005
+0.09
+Opel
+Karl
+2008
+2100
+Tesla
+Model Y
+2022
+60000
+Mercedes-Benz
+GLC
+2018
+43657

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-23T18:10:42" hostname="DESKTOP-O3S4DBG" time="0.001">
+  <properties/>
+  <testcase name="horizontalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="secondDiagonalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="firstDiagonalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="verticalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
