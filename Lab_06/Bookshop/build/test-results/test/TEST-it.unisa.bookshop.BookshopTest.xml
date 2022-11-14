@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unisa.bookshop.BookshopTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-14T11:08:48" hostname="DESKTOP-O3S4DBG" time="0.02">
+  <properties/>
+  <testcase name="findByTitleContentTest" classname="it.unisa.bookshop.BookshopTest" time="0.012"/>
+  <testcase name="readLibraryTest" classname="it.unisa.bookshop.BookshopTest" time="0.002"/>
+  <testcase name="findBelowAvailabilityTest" classname="it.unisa.bookshop.BookshopTest" time="0.001"/>
+  <testcase name="findMaxAvailabilityTest" classname="it.unisa.bookshop.BookshopTest" time="0.002"/>
+  <testcase name="findByAuthorTest" classname="it.unisa.bookshop.BookshopTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unisa.medicaltests.MedicalTestListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-14T11:41:13" hostname="DESKTOP-O3S4DBG" time="0.007">
+  <properties/>
+  <testcase name="addMedicalTest" classname="it.unisa.medicaltests.MedicalTestListTest" time="0.005"/>
+  <testcase name="getMedicalTestByDoctor" classname="it.unisa.medicaltests.MedicalTestListTest" time="0.0"/>
+  <testcase name="getMedicalTestByDate" classname="it.unisa.medicaltests.MedicalTestListTest" time="0.0"/>
+  <testcase name="getAverageCost" classname="it.unisa.medicaltests.MedicalTestListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
