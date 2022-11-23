@@ -1,0 +1,22 @@
+type: theory
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 228
+    length: 458
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 163
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: IKgECGX+tijejPWBMrKM1gLICbQoESJrrxoE7rTYuL56iFmJ4/gQwlzuIjwVQjKGEl5Q2gfwBcocsld0wsDEP5NHkK6SzB7sxS+XCPLcSZTSfYpNimZ5dapkrIGK9REcOxL4QoAkTVjmiU46lR4rk6s0MXKP28/ihR4vy3/Y0o4G1Qwx1VIKTZphrFGSQWTY9c0NllbDo1JVdJw2WCYb6ri1CEy9PStCTMkmxlPUNEdQXf66YXeVEpxpuGU6kIocL375LNlaAaA0/wYc4OgptPsoeVvS9doFrXjdr5oqrPy61vhxYwq4DXVwX8Mjm7pHnlRgSvTKw1pICiq0Hx6Jl4y62z8GpZPzEw82YLvI4Rbusr1AhNiC8/Cr/SN3B6Qf1efeEa105RsQYP3VPP6llJ6ymUFajG6APD2DKNHr9OqR4vPcdafwQsyyTA/a1lWkG/GTDk8p3fD+J6DI+8AzloQGDsp1WWfnLnuZnHQ238rDu4/V61zU6/z/hf42j+slvnyAmZ+X1GQ4KAOo9DWagQJQVIlLGRj5deEaIr9DSfE=
+  encrypted_text: NYgHoNruO3t7vIi6YFhoH7NgfeYzu1KH7PYwVOiEzRsob+FRspfFxLJSEpk7bJ2KgxnaTC3WNNH3Hs1rs2TCB/IJVlFUMfKHkRwexr11a5p922wnILZtywpgzK0iU9aseu988mBsl1hkTGHoh3bmE+ZSZoApG31ZYSipFCNUnwzOxIK1ubQBNwI5B5G7vXKW+ccLH3San3x6bPaMH93iQ/U0gUrxqi27IAgEkYJJfBJMKl4S8BBaYb3FBC8Hs1rXo03Y51mLC1w9+7lQa3P6loFUBbBASBLJmzP4CTj3zFyQ35RCZ0jmGB0rZzP6PMc4EO4pzJFQcrKzlXpKcFOEjA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Mon, 21 Nov 2022 10:29:21 UTC
+record: -1
+post_submission_on_open: true
