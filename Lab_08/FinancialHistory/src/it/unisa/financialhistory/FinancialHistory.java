@@ -28,8 +28,8 @@ public class FinancialHistory {
         if(amount > this.balance)
             throw new IllegalArgumentException("Amount requested cannot bigger than balance!");
         Movement m = new Movement(reason,-amount);
-        movements.add(m);
-        balance -= amount;
+        this.movements.add(m);
+        this.balance -= amount;
     }
 
     public double cashOnHand() {
