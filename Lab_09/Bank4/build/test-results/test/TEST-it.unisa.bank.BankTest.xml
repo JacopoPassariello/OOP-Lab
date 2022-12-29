@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unisa.bank.BankTest" tests="11" skipped="0" failures="1" errors="0" timestamp="2022-12-29T16:48:05" hostname="DESKTOP-47UBM9B" time="0.021">
+  <properties/>
+  <testcase name="transferTest" classname="it.unisa.bank.BankTest" time="0.001"/>
+  <testcase name="findAccountTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="setAndGetInterestsTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="writeUserDataToFileTest" classname="it.unisa.bank.BankTest" time="0.012"/>
+  <testcase name="interestComputationTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="depositTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="illegalWithdrawTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="illegalDepositTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="writeSerializedDataToFileTest" classname="it.unisa.bank.BankTest" time="0.007">
+    <failure message="java.lang.RuntimeException: java.io.NotSerializableException: it.unisa.bank.BankAccount" type="java.lang.RuntimeException">java.lang.RuntimeException: java.io.NotSerializableException: it.unisa.bank.BankAccount
+	at it.unisa.bank.BankTest.writeSerializedDataToFileTest(BankTest.java:142)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
+	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$2.run(TestWorker.java:176)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+Caused by: java.io.NotSerializableException: it.unisa.bank.BankAccount
+	at java.base/java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1187)
+	at java.base/java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:350)
+	at java.base/java.util.ArrayList.writeObject(ArrayList.java:866)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.io.ObjectStreamClass.invokeWriteObject(ObjectStreamClass.java:1070)
+	at java.base/java.io.ObjectOutputStream.writeSerialData(ObjectOutputStream.java:1516)
+	at java.base/java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1438)
+	at java.base/java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1181)
+	at java.base/java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:350)
+	at it.unisa.bank.Bank.writeSerializedDataToFile(Bank.java:120)
+	at it.unisa.bank.BankTest.writeSerializedDataToFileTest(BankTest.java:133)
+	... 41 more
+</failure>
+  </testcase>
+  <testcase name="bankAccountWithNegativeBalanceTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <testcase name="withdrawTest" classname="it.unisa.bank.BankTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
